@@ -1,4 +1,4 @@
-﻿- [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
+- [Alibi Ghazi](https://github.com/AlibiGhazi-dev)
 - [Rudolph Hernandez](https://rudolphh.github.io)
 - [Victor Muigua](https://github.com/vamuigua)
 - [Wolfgang S](https://github.com/WSchindler)
@@ -238,3 +238,4 @@
 - [Eliardo Costa](https://github.com/eliardocosta)
 - [Varun M]
 - [Junior Gantin](https://github.com/nioperas06)
+- [Arturo Silva](https://github.com/dasilvabalautaro)
